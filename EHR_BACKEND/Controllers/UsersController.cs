@@ -23,9 +23,25 @@ namespace EasyHouseRent.Controllers
         }
 
         // GET api/<UsersController>/5
-        [HttpGet("{email}/{password}")]
-        public void Get()
+        [HttpGet("GetUser")]
+        public IEnumerable<Usuarios> GetUser([FromBody] Usuarios user)
         {
+            string sql = $"SELECT idusuario,nombre,apellidos,email,telefono,foto FROM usuarios WHERE idusuario = '{user.idusuario}';";
+            DataTable dt = db.getTable(sql);
+            List<Usuarios> userList = new List<Usuarios>();
+            userList = (from DataRow dr in dt.Rows
+                         select new Usuarios()
+                         {
+                            idusuario = Convert.ToInt32(dr["idusuario"]),
+                            nombre = dr["nombre"].ToString(),
+                            apellidos = dr["apellidos"].ToString(),
+                            telefono = dr["telefono"].ToString(),
+                            email = dr["email"].ToString(),
+                            foto = dr["foto"].ToString()
+
+                         }).ToList();
+
+            return userList;
         }
 
         // POST api/<UsersController>
@@ -46,7 +62,7 @@ namespace EasyHouseRent.Controllers
             return db.executeSql(sql); 
         }
 
-        [HttpPut("ProfilePicture")]
+        [HttpPost("ProfilePicture")]
         public string PutProfilePicture([FromBody] Usuarios user)
         {
             string sql = $"UPDATE usuarios SET foto = '{user.foto}' WHERE idusuario = {user.idusuario}";

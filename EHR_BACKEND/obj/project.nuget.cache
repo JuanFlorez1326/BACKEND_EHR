@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EH01OpiDNpIc38s5Z/ud6ZRuwr/0yHOiFnY04M3FEUnpxWyl3LhGOXc/mYwhfS3s6auSzKhd3PZ1NjU8T4sWbw==",
+  "dgSpecHash": "8mkTVtakBr/lZZFYa8CpwP5SBlPg431/nJXvtaxAdykRHI/PACoWyku4jB7jYs9xwOh4AdW0CN6S0U9Tp4sTSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adsi\\Desktop\\Dev\\donetEhrV2\\EHR_BACKEND\\EHR_BACKEND.csproj",
+  "projectFilePath": "C:\\Users\\adsi\\desktop\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adsi\\.nuget\\packages\\azure.core\\1.4.1\\azure.core.1.4.1.nupkg.sha512",
     "C:\\Users\\adsi\\.nuget\\packages\\azure.identity\\1.2.3\\azure.identity.1.2.3.nupkg.sha512",
