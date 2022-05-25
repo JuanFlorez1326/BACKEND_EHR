@@ -2164,11 +2164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adsi\\Desktop\\Dev\\donetEhrV2\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "projectUniqueName": "C:\\Users\\adsi\\desktop\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
       "projectName": "EHR_BACKEND",
-      "projectPath": "C:\\Users\\adsi\\Desktop\\Dev\\donetEhrV2\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "projectPath": "C:\\Users\\adsi\\desktop\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
       "packagesPath": "C:\\Users\\adsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adsi\\Desktop\\Dev\\donetEhrV2\\EHR_BACKEND\\obj\\",
+      "outputPath": "C:\\Users\\adsi\\desktop\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
