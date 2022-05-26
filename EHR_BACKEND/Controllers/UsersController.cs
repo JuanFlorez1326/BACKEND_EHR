@@ -24,9 +24,9 @@ namespace EasyHouseRent.Controllers
 
         // GET api/<UsersController>/5
         [HttpGet("GetUser")]
-        public IEnumerable<Usuarios> GetUser([FromBody] Usuarios user)
+        public IEnumerable<Usuarios> GetUser([FromQuery]int idusuario)
         {
-            string sql = $"SELECT idusuario,nombre,apellidos,email,telefono,foto FROM usuarios WHERE idusuario = '{user.idusuario}';";
+            string sql = $"SELECT idusuario,nombre,apellidos,email,telefono,foto FROM usuarios WHERE idusuario = '{idusuario}';";
             DataTable dt = db.getTable(sql);
             List<Usuarios> userList = new List<Usuarios>();
             userList = (from DataRow dr in dt.Rows
