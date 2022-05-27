@@ -26,7 +26,7 @@ namespace EasyHouseRent.Controllers
             }
             else
             {
-                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado FROM anuncios a WHERE zona LIKE '%{value}%' OR titulo LIKE '%{value}%' OR direccion LIKE '%{value}%';";
+                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad FROM anuncios a WHERE zona LIKE '%{value}%' OR titulo LIKE '%{value}%' OR direccion LIKE '%{value}%';";
                 DataTable dt = db.getTable(sql);
                 List<Anuncios> dataAd = new List<Anuncios>();
                 dataAd = (from DataRow dr in dt.Rows
@@ -48,7 +48,8 @@ namespace EasyHouseRent.Controllers
                               url2 = dr["url2"].ToString(),
                               url3 = dr["url3"].ToString(),
                               url4 = dr["url4"].ToString(),
-                              estado = dr["estado"].ToString()
+                              estado = dr["estado"].ToString(),
+                              cuidad = dr["cuidad"].ToString()
 
                           }).ToList();
 
@@ -60,29 +61,30 @@ namespace EasyHouseRent.Controllers
         [HttpGet("MostRecent")]
         public IEnumerable<Anuncios> GetMostRecent([FromQuery] string value)
         {
-            string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado FROM anuncios ORDER BY idanuncio DESC LIMIT 20;";
+            string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad FROM anuncios ORDER BY idanuncio DESC LIMIT 20;";
             DataTable dt = db.getTable(sql);
             List<Anuncios> mostRecentList = new List<Anuncios>();
             mostRecentList = (from DataRow dr in dt.Rows
                       select new Anuncios()
                       {
-                          idanuncio = Convert.ToInt32(dr["idanuncio"]),
-                          idusuario = Convert.ToInt32(dr["idusuario"]),
-                          titulo = dr["titulo"].ToString(),
-                          direccion = dr["direccion"].ToString(),
-                          descripcion = dr["descripcion"].ToString(),
-                          modalidad = dr["modalidad"].ToString(),
-                          zona = dr["zona"].ToString(),
-                          edificacion = dr["edificacion"].ToString(),
-                          habitaciones = Convert.ToInt32(dr["habitaciones"]),
-                          garaje = dr["garaje"].ToString(),
-                          precio = Convert.ToInt64(dr["precio"]),
-                          fecha = dr["fecha"].ToString(),
-                          url1 = dr["url1"].ToString(),
-                          url2 = dr["url2"].ToString(),
-                          url3 = dr["url3"].ToString(),
-                          url4 = dr["url4"].ToString(),
-                          estado = dr["estado"].ToString()
+                        idanuncio = Convert.ToInt32(dr["idanuncio"]),
+                        idusuario = Convert.ToInt32(dr["idusuario"]),
+                        titulo = dr["titulo"].ToString(),
+                        direccion = dr["direccion"].ToString(),
+                        descripcion = dr["descripcion"].ToString(),
+                        modalidad = dr["modalidad"].ToString(),
+                        zona = dr["zona"].ToString(),
+                        edificacion = dr["edificacion"].ToString(),
+                        habitaciones = Convert.ToInt32(dr["habitaciones"]),
+                        garaje = dr["garaje"].ToString(),
+                        precio = Convert.ToInt64(dr["precio"]),
+                        fecha = dr["fecha"].ToString(),
+                        url1 = dr["url1"].ToString(),
+                        url2 = dr["url2"].ToString(),
+                        url3 = dr["url3"].ToString(),
+                        url4 = dr["url4"].ToString(),
+                        estado = dr["estado"].ToString(),
+                        cuidad = dr["cuidad"].ToString()
 
                       }).ToList();
 
@@ -98,23 +100,24 @@ namespace EasyHouseRent.Controllers
             categoryList = (from DataRow dr in dt.Rows
                               select new Anuncios()
                               {
-                                  idanuncio = Convert.ToInt32(dr["idanuncio"]),
-                                  idusuario = Convert.ToInt32(dr["idusuario"]),
-                                  titulo = dr["titulo"].ToString(),
-                                  direccion = dr["direccion"].ToString(),
-                                  descripcion = dr["descripcion"].ToString(),
-                                  modalidad = dr["modalidad"].ToString(),
-                                  zona = dr["zona"].ToString(),
-                                  edificacion = dr["edificacion"].ToString(),
-                                  habitaciones = Convert.ToInt32(dr["habitaciones"]),
-                                  garaje = dr["garaje"].ToString(),
-                                  precio = Convert.ToInt64(dr["precio"]),
-                                  fecha = dr["fecha"].ToString(),
-                                  url1 = dr["url1"].ToString(),
-                                  url2 = dr["url2"].ToString(),
-                                  url3 = dr["url3"].ToString(),
-                                  url4 = dr["url4"].ToString(),
-                                  estado = dr["estado"].ToString()
+                                idanuncio = Convert.ToInt32(dr["idanuncio"]),
+                                idusuario = Convert.ToInt32(dr["idusuario"]),
+                                titulo = dr["titulo"].ToString(),
+                                direccion = dr["direccion"].ToString(),
+                                descripcion = dr["descripcion"].ToString(),
+                                modalidad = dr["modalidad"].ToString(),
+                                zona = dr["zona"].ToString(),
+                                edificacion = dr["edificacion"].ToString(),
+                                habitaciones = Convert.ToInt32(dr["habitaciones"]),
+                                garaje = dr["garaje"].ToString(),
+                                precio = Convert.ToInt64(dr["precio"]),
+                                fecha = dr["fecha"].ToString(),
+                                url1 = dr["url1"].ToString(),
+                                url2 = dr["url2"].ToString(),
+                                url3 = dr["url3"].ToString(),
+                                url4 = dr["url4"].ToString(),
+                                estado = dr["estado"].ToString(),
+                                cuidad = dr["cuidad"].ToString()
 
                               }).ToList();
 
@@ -123,9 +126,44 @@ namespace EasyHouseRent.Controllers
 
 
         // POST api/<HomeController>
-        [HttpPost]
-        public void Post([FromQuery] string value)
-        {    
+        [HttpGet("Recommended")]
+        public IEnumerable<Anuncios> GetAllAds([FromQuery] string zona, string cuidad)
+        {
+            if(zona == "" && cuidad == "")
+            {
+                return null;
+            }
+            else
+            {
+                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad FROM anuncios WHERE zona = '{zona}' AND cuidad = '{cuidad}';";
+                DataTable dt = db.getTable(sql);
+                List<Anuncios> listRecommended = new List<Anuncios>();
+                listRecommended = (from DataRow dr in dt.Rows
+                                select new Anuncios()
+                                {
+                                    idanuncio = Convert.ToInt32(dr["idanuncio"]),
+                                    idusuario = Convert.ToInt32(dr["idusuario"]),
+                                    titulo = dr["titulo"].ToString(),
+                                    direccion = dr["direccion"].ToString(),
+                                    descripcion = dr["descripcion"].ToString(),
+                                    modalidad = dr["modalidad"].ToString(),
+                                    zona = dr["zona"].ToString(),
+                                    edificacion = dr["edificacion"].ToString(),
+                                    habitaciones = Convert.ToInt32(dr["habitaciones"]),
+                                    garaje = dr["garaje"].ToString(),
+                                    precio = Convert.ToInt64(dr["precio"]),
+                                    fecha = dr["fecha"].ToString(),
+                                    url1 = dr["url1"].ToString(),
+                                    url2 = dr["url2"].ToString(),
+                                    url3 = dr["url3"].ToString(),
+                                    url4 = dr["url4"].ToString(),
+                                    estado = dr["estado"].ToString(),
+                                    cuidad = dr["cuidad"].ToString()
+                                    
+                                }).ToList();
+
+                return listRecommended; 
+            }
         }
 
         // PUT api/<HomeController>/5
