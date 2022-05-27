@@ -38,7 +38,7 @@ namespace EasyHouseRent.Controllers
         [HttpPost]
         public string Post([FromBody] Anuncios Ad)
         {
-            string sql = "INSERT INTO anuncios (idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado) VALUES ('" + Ad.idusuario + "','" + Ad.titulo + "','" + Ad.direccion + "','" + Ad.descripcion + "','" + Ad.modalidad + "','" + Ad.zona + "','" + Ad.edificacion + "','" + Ad.habitaciones + "','" + Ad.garaje + "','" + Ad.precio + "','" + Ad.fecha + "','" + Ad.url1 + "','" + Ad.url2 + "','" + Ad.url3 + "','" + Ad.url4 + "', '" + Ad.estado + "');";
+            string sql = "INSERT INTO anuncios (idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad) VALUES ('" + Ad.idusuario + "','" + Ad.titulo + "','" + Ad.direccion + "','" + Ad.descripcion + "','" + Ad.modalidad + "','" + Ad.zona + "','" + Ad.edificacion + "','" + Ad.habitaciones + "','" + Ad.garaje + "','" + Ad.precio + "','" + Ad.fecha + "','" + Ad.url1 + "','" + Ad.url2 + "','" + Ad.url3 + "','" + Ad.url4 + "', '" + Ad.estado + "','" + Ad.cuidad + "');";
             return db.executeSql(sql);
         }
 
@@ -46,7 +46,7 @@ namespace EasyHouseRent.Controllers
         [HttpPut("{id}")]
         public string Put([FromBody] Anuncios ad)
         {
-            string sql = "UPDATE anuncios SET titulo = '" + ad.titulo + "', direccion = '" + ad.direccion + "', descripcion = '" + ad.descripcion + "', direccion ='" + ad.direccion + "', modalidad ='" + ad.modalidad + "', zona ='" + ad.zona + "', edificacion ='" + ad.edificacion + "', habitaciones ='" + ad.habitaciones + "', garaje ='" + ad.garaje + "', precio ='" + ad.precio + "', fecha ='" + ad.fecha + "', url1 ='" + ad.url1 + "', url2 ='" + ad.url2 + "', url3 ='" + ad.url3 + "', url4 ='" + ad.url4 + "', estado ='" + ad.estado + "'  WHERE idanuncio = '" + ad.idanuncio + "'";
+            string sql = "UPDATE anuncios SET titulo = '" + ad.titulo + "', direccion = '" + ad.direccion + "', descripcion = '" + ad.descripcion + "', direccion ='" + ad.direccion + "', modalidad ='" + ad.modalidad + "', zona ='" + ad.zona + "', edificacion ='" + ad.edificacion + "', habitaciones ='" + ad.habitaciones + "', garaje ='" + ad.garaje + "', precio ='" + ad.precio + "', fecha ='" + ad.fecha + "', url1 ='" + ad.url1 + "', url2 ='" + ad.url2 + "', url3 ='" + ad.url3 + "', url4 ='" + ad.url4 + "', estado ='" + ad.estado + "', cuidad = '" + ad.cuidad + "'  WHERE idanuncio = '" + ad.idanuncio + "'";
             return db.executeSql(sql);
         }
 
