@@ -26,7 +26,7 @@ namespace EasyHouseRent.Controllers
             }
             else
             {
-                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad FROM anuncios a WHERE zona LIKE '%{value}%' OR titulo LIKE '%{value}%' OR direccion LIKE '%{value}%';";
+                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,ciudad FROM anuncios a WHERE zona LIKE '%{value}%' OR titulo LIKE '%{value}%' OR direccion LIKE '%{value}%';";
                 DataTable dt = db.getTable(sql);
                 List<Anuncios> dataAd = new List<Anuncios>();
                 dataAd = (from DataRow dr in dt.Rows
@@ -49,7 +49,7 @@ namespace EasyHouseRent.Controllers
                               url3 = dr["url3"].ToString(),
                               url4 = dr["url4"].ToString(),
                               estado = dr["estado"].ToString(),
-                              cuidad = dr["cuidad"].ToString()
+                              ciudad = dr["ciudad"].ToString()
 
                           }).ToList();
 
@@ -61,7 +61,7 @@ namespace EasyHouseRent.Controllers
         [HttpGet("MostRecent")]
         public IEnumerable<Anuncios> GetMostRecent([FromQuery] string value)
         {
-            string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad FROM anuncios ORDER BY idanuncio DESC LIMIT 20;";
+            string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,ciudad FROM anuncios ORDER BY idanuncio DESC LIMIT 20;";
             DataTable dt = db.getTable(sql);
             List<Anuncios> mostRecentList = new List<Anuncios>();
             mostRecentList = (from DataRow dr in dt.Rows
@@ -84,7 +84,7 @@ namespace EasyHouseRent.Controllers
                         url3 = dr["url3"].ToString(),
                         url4 = dr["url4"].ToString(),
                         estado = dr["estado"].ToString(),
-                        cuidad = dr["cuidad"].ToString()
+                        ciudad = dr["ciudad"].ToString()
 
                       }).ToList();
 
@@ -117,7 +117,7 @@ namespace EasyHouseRent.Controllers
                                 url3 = dr["url3"].ToString(),
                                 url4 = dr["url4"].ToString(),
                                 estado = dr["estado"].ToString(),
-                                cuidad = dr["cuidad"].ToString()
+                                ciudad = dr["ciudad"].ToString()
 
                               }).ToList();
 
@@ -127,15 +127,15 @@ namespace EasyHouseRent.Controllers
 
         // POST api/<HomeController>
         [HttpGet("Recommended")]
-        public IEnumerable<Anuncios> GetAllAds([FromQuery] string zona, string cuidad)
+        public IEnumerable<Anuncios> GetAllAds([FromQuery] string zona, string ciudad)
         {
-            if(zona == "" && cuidad == "")
+            if(zona == "" && ciudad == "")
             {
                 return null;
             }
             else
             {
-                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,cuidad FROM anuncios WHERE zona = '{zona}' AND cuidad = '{cuidad}';";
+                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,ciudad FROM anuncios WHERE zona = '{zona}' AND ciudad = '{ciudad}';";
                 DataTable dt = db.getTable(sql);
                 List<Anuncios> listRecommended = new List<Anuncios>();
                 listRecommended = (from DataRow dr in dt.Rows
@@ -158,7 +158,7 @@ namespace EasyHouseRent.Controllers
                                     url3 = dr["url3"].ToString(),
                                     url4 = dr["url4"].ToString(),
                                     estado = dr["estado"].ToString(),
-                                    cuidad = dr["cuidad"].ToString()
+                                    ciudad = dr["ciudad"].ToString()
                                     
                                 }).ToList();
 

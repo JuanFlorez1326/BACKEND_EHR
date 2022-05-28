@@ -47,7 +47,7 @@ namespace EasyHouseRent.Model.Entities
         public int habitaciones { get { return _habitaciones; } set { _habitaciones = value; } }
         private string _garaje = "";
         public string garaje { get { return _garaje; } set { _garaje = value; } }
-        private string _cuidad = "";
-        public string cuidad { get { return _cuidad; } set{ _cuidad = value; } }
+        private string _ciudad = "";
+        public string ciudad { get { return _ciudad; } set{ _ciudad = value; } }
     }
 }
