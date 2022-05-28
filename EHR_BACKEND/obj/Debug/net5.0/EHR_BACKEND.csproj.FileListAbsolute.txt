@@ -1,645 +1,704 @@
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACKEND 5.0\EHR_BACKEND\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\Desktop\EHR 5.0\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\mjhon\OneDrive\Escritorio\EHR BACK\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\Juan\Desktop\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\Juan\Desktop\Dev\donetEhrV2\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\Desktop\EHR BACK\donetEhrV2\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\desktop\Dev\donetEhrv2\ehr_backend\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\desktop\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\Desktop\EHR BACK+\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\appsettings.json
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.StaticWebAssets.xml
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.exe
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.deps.json
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.json
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.runtimeconfig.dev.json
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Identity.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\K4os.Hash.xxHash.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.Identity.Web.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Ubiety.Dns.Core.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\ZstdNet.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Nancy.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.AssemblyReference.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfoInputs.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.AssemblyInfo.cs
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CoreCompileInputs.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\scopedcss\bundle\EHR_BACKEND.styles.css
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\staticwebassets\EHR_BACKEND.StaticWebAssets.Manifest.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.RazorTargetAssemblyInfo.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.csproj.CopyComplete
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\refint\EHR_BACKEND.dll
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.pdb
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\EHR_BACKEND.genruntimeconfig.cache
-C:\Users\adsi\desktop\Dev\BACKEND_EHR\EHR_BACKEND\obj\Debug\net5.0\ref\EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACKEND 5.0/EHR_BACKEND/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/Desktop/EHR 5.0/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/mjhon/OneDrive/Escritorio/EHR BACK/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/Juan/Desktop/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/Juan/Desktop/Dev/donetEhrV2/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/Desktop/EHR BACK/donetEhrV2/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/desktop/Dev/donetEhrv2/ehr_backend/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/desktop/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/Desktop/EHR BACK+/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.StaticWebAssets.xml
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.exe
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/refint/EHR_BACKEND.dll
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
+C:/Users/adsi/desktop/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.Development.json
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/appsettings.json
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.deps.json
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.json
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.runtimeconfig.dev.json
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/ref/EHR_BACKEND.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/EHR_BACKEND.pdb
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Core.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Identity.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Certificates.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Azure.Security.KeyVault.Secrets.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Google.Protobuf.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.Identity.Web.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/MySql.Data.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/ZstdNet.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Nancy.Serialization.JsonNet.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.AssemblyReference.cache
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfoInputs.cache
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.AssemblyInfo.cs
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CoreCompileInputs.cache
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cs
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.MvcApplicationPartsAssemblyInfo.cache
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.Manifest.cache
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/staticwebassets/EHR_BACKEND.StaticWebAssets.xml
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/scopedcss/bundle/EHR_BACKEND.styles.css
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.RazorTargetAssemblyInfo.cache
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.csproj.CopyComplete
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/ref/EHR_BACKEND.dll
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.pdb
+/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/Debug/net5.0/EHR_BACKEND.genruntimeconfig.cache
