@@ -684,7 +684,7 @@
         "runtime": {
           "lib/net40/Nancy.dll": {
             "assemblyVersion": "1.4.1.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.4.1.0"
           }
         },
         "compile": {
@@ -699,7 +699,7 @@
         "runtime": {
           "lib/net40/Nancy.Serialization.JsonNet.dll": {
             "assemblyVersion": "1.4.1.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.4.1.0"
           }
         },
         "compile": {
@@ -816,11 +816,7 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/5.0.0": {
-        "compile": {
-          "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll": {}
-        }
-      },
+      "System.Runtime.CompilerServices.Unsafe/5.0.0": {},
       "System.Security.AccessControl/4.7.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
