@@ -2159,24 +2159,26 @@
     ]
   },
   "packageFolders": {
-    "/home/juan/.nuget/packages/": {}
+    "C:\\Users\\adsi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/EHR_BACKEND.csproj",
+      "projectUniqueName": "C:\\Users\\adsi\\desktop\\Dev\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
       "projectName": "EHR_BACKEND",
-      "projectPath": "/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/EHR_BACKEND.csproj",
-      "packagesPath": "/home/juan/.nuget/packages/",
-      "outputPath": "/home/juan/Juan/Dev/BACKEND_EHR/EHR_BACKEND/obj/",
+      "projectPath": "C:\\Users\\adsi\\desktop\\Dev\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "packagesPath": "C:\\Users\\adsi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adsi\\desktop\\Dev\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/juan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\adsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2242,7 +2244,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },

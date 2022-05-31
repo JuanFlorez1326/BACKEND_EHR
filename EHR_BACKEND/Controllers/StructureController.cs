@@ -37,7 +37,7 @@ namespace EHR_BACKEND.Controllers
         [HttpGet("AboutUs")]
         public IEnumerable<Anuncios> GetImagesAds([FromQuery] string value)
         {
-            string sql = $"SELECT url1 FROM anuncios LIMIT 5;";
+            string sql = $"SELECT url1 FROM anuncios LIMIT 8;";
             DataTable dt = db.getTable(sql);
             List<Anuncios> listImagesAds = new List<Anuncios>();
             listImagesAds = (from DataRow dr in dt.Rows
