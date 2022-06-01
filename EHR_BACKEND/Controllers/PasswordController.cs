@@ -21,6 +21,7 @@ namespace EasyHouseRent.Controllers
     public class PasswordController : ControllerBase
     {
         BaseData db = new BaseData();
+        Usuarios user = new Usuarios();
         private readonly IConfiguration conf;
         public PasswordController(IConfiguration config)
         {
@@ -60,7 +61,12 @@ namespace EasyHouseRent.Controllers
             var decode = jwt.descodeToken(token);
             return decode;
         }
-
+        [HttpPost("/getpassword")]
+        public bool PostGetPassword([FromQuery] Usuarios user)
+        {
+            string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{user.contrasenna}';";
+            return user.ConfirmationPassword(sql);
+        }
         // PUT api/<PasswordController>/5
         [HttpPut]
         [Authorize]
