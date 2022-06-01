@@ -62,7 +62,7 @@ namespace EasyHouseRent.Controllers
             return decode;
         }
         [HttpPost("/getpassword")]
-        public bool PostGetPassword([FromQuery] Usuarios user)
+        public bool PostGetPassword([FromBody] Usuarios user)
         {
             string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{user.contrasenna}';";
             return user.ConfirmationPassword(sql);
