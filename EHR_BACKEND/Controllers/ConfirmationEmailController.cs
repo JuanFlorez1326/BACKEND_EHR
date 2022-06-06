@@ -27,10 +27,8 @@ namespace EasyHouseRent.Controllers
 
         [HttpGet]
 
-        public bool Get([FromQuery] string email)
+        public void Get()
         {
-            string sql = $"SELECT email FROM usuarios where email = '{email}';";
-            return user.ConfirmationEmail(sql);
         }
         
         // GET api/<ConfirmationEmailController>/5
@@ -50,6 +48,14 @@ namespace EasyHouseRent.Controllers
             var jwt = new JWT(secret);
             var token = jwt.CreateTokenEmail(db.executeSql(sql));
             return Ok(new { state = true, message = "Token For Created Email", token });
+        }
+
+        [HttpPost("/verifyEmail")]
+
+        public bool PostEmail ([FromQuery] string email)
+        {
+            string sql = $"SELECT email FROM usuarios where email = '{email}';";
+            return user.ConfirmationEmail(sql);
         }
 
         // PUT api/<ConfirmationEmailController>/5

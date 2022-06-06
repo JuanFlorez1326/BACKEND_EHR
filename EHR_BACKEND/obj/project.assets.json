@@ -2159,19 +2159,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adsi\\.nuget\\packages\\": {}
+    "C:\\Users\\mjhon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "projectUniqueName": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
       "projectName": "EHR_BACKEND",
-      "projectPath": "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
-      "packagesPath": "C:\\Users\\adsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
+      "projectPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "packagesPath": "C:\\Users\\mjhon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mjhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2236,12 +2236,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.16, 5.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2250,22 +2244,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
     {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    },
-    {
       "code": "NU1602",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Nancy.Serialization.JsonNet 1.4.1 no proporciona un límite inferior inclusivo para la dependencia Newtonsoft.Json. Se resolvió una mejor coincidencia aproximada de Newtonsoft.Json 3.5.8.",
+      "message": "Nancy.Serialization.JsonNet 1.4.1 does not provide an inclusive lower bound for dependency Newtonsoft.Json. An approximate best match of Newtonsoft.Json 3.5.8 was resolved.",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net5.0"
@@ -2275,7 +2263,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Nancy 1.4.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'Nancy 1.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
       "libraryId": "Nancy",
       "targetGraphs": [
         "net5.0"
@@ -2285,7 +2273,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Nancy.Serialization.JsonNet 1.4.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'Nancy.Serialization.JsonNet 1.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
       "libraryId": "Nancy.Serialization.JsonNet",
       "targetGraphs": [
         "net5.0"
@@ -2295,7 +2283,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Newtonsoft.Json 3.5.8\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'Newtonsoft.Json 3.5.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net5.0"
