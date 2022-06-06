@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj": {}
+    "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj": {
+    "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+        "projectUniqueName": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
         "projectName": "EHR_BACKEND",
-        "projectPath": "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
-        "packagesPath": "C:\\Users\\adsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adsi\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
+        "projectPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+        "packagesPath": "C:\\Users\\mjhon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mjhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,12 +79,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -93,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
