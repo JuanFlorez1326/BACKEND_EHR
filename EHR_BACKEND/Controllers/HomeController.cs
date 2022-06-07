@@ -127,7 +127,7 @@ namespace EasyHouseRent.Controllers
 
         // POST api/<HomeController>
         [HttpGet("Recommended")]
-        public IEnumerable<Anuncios> GetAllAds([FromQuery] string ciudad)
+        public IEnumerable<Anuncios> GetAllAds([FromQuery] string ciudad, int idAd)
         {
             if(ciudad == "")
             {
@@ -135,7 +135,7 @@ namespace EasyHouseRent.Controllers
             }
             else
             {
-                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,ciudad FROM anuncios WHERE ciudad = '{ciudad}';";
+                string sql = $"SELECT idanuncio,idusuario,titulo,direccion,descripcion,modalidad,zona,edificacion,habitaciones,garaje,precio,fecha,url1,url2,url3,url4,estado,ciudad FROM anuncios WHERE ciudad = '{ciudad}' AND idanuncio <> {idAd};";
                 DataTable dt = db.getTable(sql);
                 List<Anuncios> listRecommended = new List<Anuncios>();
                 listRecommended = (from DataRow dr in dt.Rows
