@@ -50,6 +50,9 @@ namespace EasyHouseRent.Model.Entities
         private string _foto;
         public string foto { set { _foto = value; } get { return _foto; } }
 
+        public List<Departamento> listDepartment { set; get; }
+        public List<Municipios> listMunicipality { set; get; }
+
 
         public bool ConfirmationEmail(string sql)
         {
