@@ -26,20 +26,38 @@ namespace EasyHouseRent.Controllers
         [HttpGet("GetUser")]
         public IEnumerable<Usuarios> GetUser([FromQuery]int idusuario)
         {
-            string sql = $"SELECT idusuario,nombre,apellidos,email,telefono,foto FROM usuarios WHERE idusuario = '{idusuario}';";
+            string sql = $"SELECT u.idusuario,u.nombre,u.apellidos,u.email,u.telefono,u.foto,d.nombre AS depnombre,m.nombre AS munnombre FROM departamento d INNER JOIN usuarios u ON d.iddepartamento = u.departamento INNER JOIN municipios m ON u.municipio = m.idmunicipio  WHERE idusuario = {idusuario};";
             DataTable dt = db.getTable(sql);
             List<Usuarios> userList = new List<Usuarios>();
+            List<Municipios> munList = new List<Municipios>();
+            List<Departamento> depList = new List<Departamento>();
+
+            munList = (from DataRow dr in dt.Rows
+                        select new Municipios()
+                        {
+                            nombre = dr["munnombre"].ToString()
+
+                        }).ToList();
+
+            depList = (from DataRow dr in dt.Rows
+                        select new Departamento()
+                        {
+                            nombre = dr["depnombre"].ToString()
+                        }).ToList();
+
             userList = (from DataRow dr in dt.Rows
-                         select new Usuarios()
-                         {
+                        select new Usuarios()
+                            {
                             idusuario = Convert.ToInt32(dr["idusuario"]),
                             nombre = dr["nombre"].ToString(),
                             apellidos = dr["apellidos"].ToString(),
                             telefono = dr["telefono"].ToString(),
                             email = dr["email"].ToString(),
-                            foto = dr["foto"].ToString()
+                            foto = dr["foto"].ToString(),
+                            listDepartment = depList,
+                            listMunicipality = munList
 
-                         }).ToList();
+                        }).ToList();
 
             return userList;
         }
