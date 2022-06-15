@@ -28,12 +28,8 @@ namespace EHR_BACKEND
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-               /*services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddMicrosoftIdentityWebApi(Configuration.GetSection("AzureAd"));*/
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -43,7 +39,6 @@ namespace EHR_BACKEND
             services.AddControllers();
             services.AddCors();
 
-            //Configure Validation Token
             var secretKey = this.Configuration.GetValue<string>("Secrect");
             services.AddAuthentication(auth =>
             {
@@ -63,7 +58,6 @@ namespace EHR_BACKEND
             });
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -80,7 +74,7 @@ namespace EHR_BACKEND
             app.UseCors(x => x
                 .AllowAnyMethod()
                 .AllowAnyHeader()
-                .SetIsOriginAllowed(origin => true) // allow any origin
+                .SetIsOriginAllowed(origin => true)
                 .AllowCredentials());
 
             app.UseAuthentication();

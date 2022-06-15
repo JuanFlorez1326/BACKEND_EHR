@@ -7,7 +7,6 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace EHR_BACKEND.Controllers
 {
@@ -16,7 +15,7 @@ namespace EHR_BACKEND.Controllers
     public class StructureController : ControllerBase
     {
         BaseData db = new BaseData();
-        // GET: api/<AdFiltersController>
+
         [HttpGet]
         public IEnumerable<Estructura> GetStructure([FromQuery] Estructura struc)
         {
@@ -33,7 +32,6 @@ namespace EHR_BACKEND.Controllers
             return listStructure;
         }
 
-        // GET api/<AdFiltersController>/5
         [HttpGet("AboutUs")]
         public IEnumerable<Anuncios> GetImagesAds([FromQuery] string value)
         {
@@ -48,24 +46,6 @@ namespace EHR_BACKEND.Controllers
                              }).ToList();
 
             return listImagesAds;
-        }
-
-        // POST api/<AdFiltersController>
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
-
-        // PUT api/<AdFiltersController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<AdFiltersController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }

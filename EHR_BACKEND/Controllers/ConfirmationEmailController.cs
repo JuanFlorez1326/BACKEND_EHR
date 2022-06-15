@@ -8,7 +8,6 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace EasyHouseRent.Controllers
 {
@@ -23,27 +22,11 @@ namespace EasyHouseRent.Controllers
         {
             conf = config;
         }
-
-
-        [HttpGet]
-
-        public void Get()
-        {
-        }
         
-        // GET api/<ConfirmationEmailController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<ConfirmationEmailController>
         [HttpPost]
         public ActionResult<object> Post([FromQuery] Usuarios user)
         {
             string sql = $"SELECT email FROM usuarios WHERE email = '{user.email}';";
-
             string secret = this.conf.GetValue<string>("Secret");
             var jwt = new JWT(secret);
             var token = jwt.CreateTokenEmail(db.executeSql(sql));
@@ -51,23 +34,10 @@ namespace EasyHouseRent.Controllers
         }
 
         [HttpPost("/verifyEmail")]
-
         public bool PostEmail ([FromQuery] string email)
         {
             string sql = $"SELECT email FROM usuarios where email = '{email}';";
             return user.ConfirmationEmail(sql);
-        }
-
-        // PUT api/<ConfirmationEmailController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<ConfirmationEmailController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }

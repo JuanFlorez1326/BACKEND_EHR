@@ -12,11 +12,11 @@ namespace EasyHouseRent.Model
     {
         MySqlConnection connection;
     
-
         public BaseData()
         {
             connection = new MySqlConnection("datasource = dbehr.ci9ckwkufffp.us-east-1.rds.amazonaws.com; port = 3306; username = easyhouserent; password = easyhouserent; database = ehr ; SSLMode = none");
         }
+
         public string executeSql(string sql)
         {
             string result = "";
@@ -39,7 +39,6 @@ namespace EasyHouseRent.Model
             catch (Exception ex)
             {
                 result = ex.Message;
-
             }
             return result;
         }
@@ -51,9 +50,7 @@ namespace EasyHouseRent.Model
             {
                 connection.Open();
                 MySqlCommand cmd = new MySqlCommand(sql, connection);
-
                 MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
-
                 adapter.Fill(dt);
                 connection.Close();
                 adapter.Dispose();
@@ -64,7 +61,6 @@ namespace EasyHouseRent.Model
             }
             return dt;
         }
-
 
         public List<object> ConvertDataTabletoString(string sql)
         {

@@ -32,7 +32,6 @@ namespace EasyHouseRent.Helpers
 
             var returnToken = new JwtSecurityTokenHandler();
             var createdToken = returnToken.CreateToken(tokenDescription);
-
             return returnToken.WriteToken(createdToken);
         }
 
@@ -42,6 +41,5 @@ namespace EasyHouseRent.Helpers
             var decodeValue = handler.ReadJwtToken(token);
             return decodeValue;
         }
-
     }
 }

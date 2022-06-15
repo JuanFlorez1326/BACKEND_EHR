@@ -59,6 +59,5 @@ namespace EHR_BACKEND.Models
                 return true;
             }
         }
-
     }
 }

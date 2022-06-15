@@ -11,7 +11,6 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Threading.Tasks;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace EasyHouseRent.Controllers
 {
@@ -28,21 +27,6 @@ namespace EasyHouseRent.Controllers
             conf = config;
         }
 
-        // GET: api/<PasswordController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<PasswordController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<PasswordController>
         [HttpPost]
         public ActionResult<object> Post([FromQuery] Usuarios user)
         {
@@ -61,26 +45,20 @@ namespace EasyHouseRent.Controllers
             var decode = jwt.descodeToken(token);
             return decode;
         }
+
         [HttpPost("/getpassword")]
         public bool PostGetPassword([FromBody] Usuarios user)
         {
             string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{user.contrasenna}';";
             return user.ConfirmationPassword(sql);
         }
-        // PUT api/<PasswordController>/5
+
         [HttpPut]
         [Authorize]
         public string Put([FromBody] LoginData user)
         {
-            string sql = $"update usuarios set contraseña = '{user.password}' where email = '{user.email}';";
-            
+            string sql = $"update usuarios set contraseña = '{user.password}' where email = '{user.email}';";         
             return db.executeSql(sql);
-        }
-
-        // DELETE api/<PasswordController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }
