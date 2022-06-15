@@ -65,7 +65,7 @@ namespace EasyHouseRent.Controllers
         [HttpPut]
         public string Put([FromBody] Usuarios user)
         {
-            string sql = "UPDATE usuarios SET nombre = '" + user.nombre + "', apellidos = '" + user.apellidos + "', edad = '" + user.edad + "', telefono ='" + user.telefono + "', email ='" + user.email + "', contraseña ='" + user.contrasenna + "', estado ='" + user.estado + "', departamento ='" + user.departamento + "', municipio ='" + user.municipio + "', foto = '" + user.foto + "  WHERE idusuario = '" + user.idusuario + "'";
+            string sql = "UPDATE usuarios SET nombre = '" + user.nombre + "', apellidos = '" + user.apellidos + "', edad = '" + user.edad + "', telefono ='" + user.telefono + "', email ='" + user.email + "'  WHERE idusuario = '" + user.idusuario + "';";
             return db.executeSql(sql); 
         }
 
