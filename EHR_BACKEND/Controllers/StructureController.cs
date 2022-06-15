@@ -16,22 +16,6 @@ namespace EHR_BACKEND.Controllers
     {
         BaseData db = new BaseData();
 
-        [HttpGet]
-        public IEnumerable<Estructura> GetStructure([FromQuery] Estructura struc)
-        {
-            string sql = "SELECT * FROM estructura ";
-            DataTable dt = db.getTable(sql);
-            List<Estructura> listStructure = new List<Estructura>();
-            listStructure = (from DataRow dr in dt.Rows
-                         select new Estructura()
-                         {
-                             idestructura = Convert.ToInt32(dr["idestructura"]),
-                             nombre = dr["nombre"].ToString(),
-                         }).ToList();
-
-            return listStructure;
-        }
-
         [HttpGet("AboutUs")]
         public IEnumerable<Anuncios> GetImagesAds([FromQuery] string value)
         {
