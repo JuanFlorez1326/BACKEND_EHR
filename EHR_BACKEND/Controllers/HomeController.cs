@@ -7,7 +7,6 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace EasyHouseRent.Controllers
 {
@@ -15,7 +14,6 @@ namespace EasyHouseRent.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
-        // GET: api/<HomeController>
         BaseData db = new BaseData();
         [HttpGet]
         public IEnumerable<Anuncios> GetAd([FromQuery] string value)
@@ -57,7 +55,6 @@ namespace EasyHouseRent.Controllers
             }
         }
 
-        //GET api/<HomeController>/5
         [HttpGet("MostRecent")]
         public IEnumerable<Anuncios> GetMostRecent([FromQuery] string value)
         {
@@ -124,8 +121,6 @@ namespace EasyHouseRent.Controllers
             return categoryList;
         }
 
-
-        // POST api/<HomeController>
         [HttpGet("Recommended")]
         public IEnumerable<Anuncios> GetAllAds([FromQuery] string ciudad, int idAd)
         {
@@ -161,7 +156,6 @@ namespace EasyHouseRent.Controllers
                                     ciudad = dr["ciudad"].ToString()
                                     
                                 }).ToList();
-                Console.WriteLine(dt);
                 return listRecommended; 
             }
         }
@@ -197,24 +191,6 @@ namespace EasyHouseRent.Controllers
                             }).ToList();
 
             return listRecommended; 
-        }
-
-        // PUT api/<HomeController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<HomeController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
-
-        //POST api/<HomeController/BusquedaFiltro>/value
-        [HttpPost("BusquedaFiltro{id}")]
-        public void filterPost([FromBody] string value)
-        {
         }
     }
 }
