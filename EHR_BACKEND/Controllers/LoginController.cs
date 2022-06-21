@@ -32,7 +32,7 @@ namespace EHR_BACKEND.Controllers
             var secretKey = _configuration.GetValue<string>("Secrect");
             var key = Encoding.ASCII.GetBytes(secretKey);
             var claims = new ClaimsIdentity();
-            string sql = $"SELECT idusuario, nombre, apellidos, edad, email,telefono, foto FROM usuarios where email = '{loginData.email}' and contraseña = '{loginData.password}'";
+            string sql = $"SELECT u.idusuario, u.nombre, u.apellidos, u.edad, u.email, u.telefono, u.foto, d.nombre, m.nombnre FROM usuarios u inner j departamento d, municipio m where email = '{loginData.email}' and contraseña = '{loginData.password}'";
             List<object> result = _db.ConvertDataTabletoString(sql);
 
             if (result.Count == 0)

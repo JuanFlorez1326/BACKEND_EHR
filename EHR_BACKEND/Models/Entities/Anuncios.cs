@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EHR_BACKEND;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace EasyHouseRent.Model.Entities
         private int _idusuario = 0;
         public int idusuario { get { return _idusuario; } set { _idusuario = value; } }
         private string _titulo = "";
-        public string titulo { get { return _titulo; } set { _titulo = value; } }
+        public string titulo { get { return _titulo; } set { _titulo = Prohibitions.validateName(value); } }
         private string _descripcion = "";
         public string descripcion { get { return _descripcion; } set { _descripcion = value; } }
         private int _puntuacion = 0;
