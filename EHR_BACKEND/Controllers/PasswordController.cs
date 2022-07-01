@@ -60,5 +60,22 @@ namespace EasyHouseRent.Controllers
             string sql = $"update usuarios set contraseña = '{user.password}' where email = '{user.email}';";         
             return db.executeSql(sql);
         }
+
+        [HttpPut("/confirmpassword")]
+        public string PutPassword([FromBody] LoginData userData)
+        {
+            string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{userData.validatePassword}' and email = '{userData.email}';";
+            bool password = user.ConfirmationPassword(sql);
+            if (password==true)
+            {
+                string sqlPassword = $"update usuarios set contraseña = '{userData.password}' where email = '{userData.email}';";
+                return db.executeSql(sqlPassword);
+            }
+            else
+            {
+                return "Las contraseña no coinciden";
+            }
+
+        }
     }
 }
