@@ -33,8 +33,6 @@ namespace EasyHouseRent.Model.Entities
         private string _foto;
         public string foto { set { _foto = value; } get { return _foto; } }
 
-        private string _validatePassword;
-        public string validatePassword { get { return _validatePassword; } set { _validatePassword = Encrypt.GetSHA256(value); } }
         public List<Departamento> listDepartment { set; get; }
         public List<Municipios> listMunicipality { set; get; }
 

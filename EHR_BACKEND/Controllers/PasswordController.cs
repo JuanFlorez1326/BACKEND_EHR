@@ -2,6 +2,7 @@
 using EasyHouseRent.Model;
 using EasyHouseRent.Model.Entities;
 using EHR_BACKEND.Models;
+using EHR_BACKEND.Models.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -62,13 +63,13 @@ namespace EasyHouseRent.Controllers
         }
 
         [HttpPut("confirmpassword")]
-        public string PutPassword([FromQuery] string validatePassword, string email, string password)
+        public string PutPassword([FromBody] DataPassworUpdate userdata)
         {
-            string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{Encrypt.GetSHA256(validatePassword)}' and email = '{email}';";
+            string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{userdata.validatePassword}' and email = '{userdata.email}';";
             bool passwordresult = user.ConfirmationPassword(sql);
             if (passwordresult==true)
             {
-                string sqlPassword = $"update usuarios set contraseña = '{Encrypt.GetSHA256(password)}' where email = '{email}';";
+                string sqlPassword = $"update usuarios set contraseña = '{userdata.password}' where email = '{userdata.email}';";
                 return db.executeSql(sqlPassword);
             }
             else
