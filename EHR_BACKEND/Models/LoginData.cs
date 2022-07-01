@@ -11,8 +11,7 @@ namespace EHR_BACKEND.Models
         private string _password;
         public string password { get { return _password; } set { _password = Encrypt.GetSHA256(value); } }
 
-        private string _validatePassword;
-        public string validatePassword { get { return _validatePassword; } set { _validatePassword = Encrypt.GetSHA256(value); } }
+       
 
         private bool ValidatePassword(string password, out string ErrorMessage)
         {

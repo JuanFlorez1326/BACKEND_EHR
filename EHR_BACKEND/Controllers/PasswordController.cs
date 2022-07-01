@@ -62,9 +62,9 @@ namespace EasyHouseRent.Controllers
         }
 
         [HttpPut("/confirmpassword")]
-        public string PutPassword([FromBody] LoginData userData)
+        public string PutPassword([FromQuery] string validatePassword, LoginData userData)
         {
-            string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{userData.validatePassword}' and email = '{userData.email}';";
+            string sql = $"SELECT contraseña FROM usuarios WHERE contraseña = '{Encrypt.GetSHA256(validatePassword)}' and email = '{userData.email}';";
             bool password = user.ConfirmationPassword(sql);
             if (password==true)
             {
