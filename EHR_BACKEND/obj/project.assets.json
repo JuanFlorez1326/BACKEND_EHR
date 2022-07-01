@@ -2159,19 +2159,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mjhon\\.nuget\\packages\\": {}
+    "C:\\Users\\Jhon Montoya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "projectUniqueName": "C:\\Users\\Jhon Montoya\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
       "projectName": "EHR_BACKEND",
-      "projectPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
-      "packagesPath": "C:\\Users\\mjhon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
+      "projectPath": "C:\\Users\\Jhon Montoya\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\EHR_BACKEND.csproj",
+      "packagesPath": "C:\\Users\\Jhon Montoya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jhon Montoya\\Desktop\\EHR BACK\\BACKEND_EHR\\EHR_BACKEND\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mjhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jhon Montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2244,7 +2249,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   },

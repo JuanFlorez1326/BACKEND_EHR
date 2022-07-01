@@ -51,7 +51,7 @@ namespace EasyHouseRent.Model.Entities
         public bool ConfirmationPassword(string sql)
         {
             DataTable dt = db.getTable(sql);
-            if (dt != null && dt.Rows.Count == 2)
+            if (dt != null && dt.Rows.Count == 1)
             {
                 return true;
             }
@@ -60,5 +60,6 @@ namespace EasyHouseRent.Model.Entities
                 return false;
             }
         }
+
     }
 }
